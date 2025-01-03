@@ -1,0 +1,16 @@
+# Ignore all .class files in any directory
+# Ignore .class files
+*.class
+
+# Ignore .vscode folder
+.vscode/
+
+# Ignore .DS_Store (macOS metadata files)
+.DS_Store
+
+# Optional: Ignore build directories (commonly used in Java projects)
+build/
+out/
+target/
+.vscode/
+.DS_Store
