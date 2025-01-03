@@ -75,14 +75,3 @@ No restrictions—use this repo however you like! It’s just a fun learning pro
 This repo is not perfect, but neither am I! I’m here to enjoy the journey, improve my coding skills, and maybe even inspire someone else to start their own coding adventure.
 
 ---
-
-### Steps to Add This File:
-1. Open your repository folder in **VS Code** or any text editor.
-2. Create a new file named `README.md` in the root directory.
-3. Copy and paste the above content into the `README.md` file.
-4. Save the file.
-5. Commit and push it to your GitHub repository:
-   ```bash
-   git add README.md
-   git commit -m "Add README for Core Java and Data Structures repo"
-   git push origin main
